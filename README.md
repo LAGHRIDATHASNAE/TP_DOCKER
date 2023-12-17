@@ -11,6 +11,7 @@ Voici les liens pour les images du frontend et du backend:
 ## Avec Compose
 En utilisant ces commandes suivantes, nos images "smart-frontend","smart-backend","mysql" et "phymyadmin" vont être créés. Ainsi les conteneurs afin de démarrer et exécuter notre application multi-conteneur et consulter leurs états:
 > docker-compose up
+
 > docker-compose ps
 ![Capture d’écran (595)](https://github.com/LAGHRIDATHASNAE/TP_DOCKER/assets/148015530/bf7182e0-34d0-4d78-b3af-d5b69ed43dd5)
 
