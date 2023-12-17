@@ -13,6 +13,7 @@ En utilisant ces commandes suivantes, nos images "smart-frontend","smart-backend
 > docker-compose up
 
 > docker-compose ps
+
 ![Capture d’écran (595)](https://github.com/LAGHRIDATHASNAE/TP_DOCKER/assets/148015530/bf7182e0-34d0-4d78-b3af-d5b69ed43dd5)
 
 ### Exécution de notre application
